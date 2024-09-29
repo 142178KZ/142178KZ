@@ -11,5 +11,4 @@
 ● ❤ Me encanta asumir nuevos desafios 
 ● ❓ ¿Quieres contactar conmigo?
 - [Linkedin](https://www.linkedin.com/in/katherine-zu%C3%B1iga-aviles/)
-
 -->
