@@ -1,4 +1,7 @@
 ## Hola soy Katherine. ¡Encantada de Conocerte! 👋🏻
+![Uploading image.png…]()
+
+
 
 <!--
 **142178KZ/142178KZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
