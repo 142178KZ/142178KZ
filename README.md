@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://KatherineZúñiga">KatherineZúñiga</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="Banner git.jpg" width="1584px" height=""396px alt="no hay imagen">
 
 # 🙋🏻‍♀️ Sobre Mi:
 <br><br>- 🔭 Apasionada de la tecnología y disfrutando de una transición laboral a la Ciencia de Datos 📉 <br>- 🌱 💻 Actualmente estoy trabajando en gestión de Contenidos: (CMS) como WordPress o Shopify para manejar productos, descripciones y actualizaciones, pero necesito nuevos desafios 💪🏻. <br>- 📚 Estoy en un curso con énfasis en el análisis exploratorio de datos, modelos predictivos. Abarca Python, SQL, métodos y aplicaciones estándar de inteligencia artificial y aprendizaje automático. <br>- ❤ Me encanta asumir nuevos desafios <br>- ❓ ¿Quieres contactar conmigo?
