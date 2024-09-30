@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://KatherineZúñiga">Katherine, >¡Encantada de conocerte!</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://KatherineZúñiga">Katherine. </a> ¡Encantada de conocerte!</a> 👋</h1>
 </div>
 <img src="Banner git.jpg" width="1584px" height=""396px alt="no hay imagen">
 
