@@ -3,9 +3,19 @@
 </div>
 <img src="Banner git.jpg" width="1584px" height=""396px alt="no hay imagen">
 
-## 🙋🏻‍♀️ Sobre Mi:
-<br><br>- 🔭 Apasionada de la tecnología y disfrutando de una transición laboral a la Ciencia de Datos 📉 <br>- 🌱 💻 Actualmente estoy trabajando en gestión de Contenidos: (CMS) como WordPress o Shopify para manejar productos, descripciones y actualizaciones, pero necesito nuevos desafios 💪🏻. <br>- 📚 Estoy en un curso con énfasis en el análisis exploratorio de datos, modelos predictivos. Abarca Python, SQL, métodos y aplicaciones estándar de inteligencia artificial y aprendizaje automático. <br>- ❤ Me encanta asumir nuevos desafios <br>- ❓ ¿Quieres contactar conmigo?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/katherine-zuñiga-aviles) 
+[![GitHub followers](https://img.shields.io/github/followers/142178KZ?style=social)](https://github.com/142178KZ)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1421k4zu_)
 
+##🙋🏻‍♀️ Sobre Mi:
+
+- ⭐ Github Star ⭐ 
+- 🔭 Apasionada de la tecnología y disfrutando de una transición laboral a la Ciencia de Datos 📉
+- 🌱 💻 Actualmente estoy trabajando en gestión de Contenidos: (CMS) como WordPress o Shopify para manejar productos, descripciones y actualizaciones.
+- 📚 Estoy en un curso con énfasis en el análisis exploratorio de datos, modelos predictivos. Abarca Python, SQL, métodos y aplicaciones estándar de inteligencia artificial y aprendizaje automático.
+- ❤ Me encanta asumir nuevos desafios 💪🏻
+- ❓ ¿Quieres contactar conmigo?
+<br>
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1421k4zu_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/katherine-zuñiga-aviles) 
