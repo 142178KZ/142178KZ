@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/142178KZ?style=social)](https://github.com/142178KZ)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1421k4zu_)
 
-##🙋🏻‍♀️ Sobre Mi:
+## 🙋🏻‍♀️ Sobre Mi:
 
 - ⭐ Github Star ⭐ 
 - 🔭 Apasionada de la tecnología y disfrutando de una transición laboral a la Ciencia de Datos 📉
