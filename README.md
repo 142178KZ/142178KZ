@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://KatherineZúñiga">Katherine. </a> ¡Encantada de conocerte!</a> 👋</h1>
+  Data Scientist ||| Machine Learning ||| Python ||| R ||| SQL ||| Big Data ||| Hadoop ||| Análisis de Datos ||| Estadística ||| Ingeniería Informática
 </div>
-<img src="Banner git.jpg" width="1584px" height=""396px alt="no hay imagen">
+<img src="Banner Para Linkedin DS 1.jpg" width="1584px" height=""396px alt="no hay imagen">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/katherine-zuñiga-aviles) 
 [![GitHub followers](https://img.shields.io/github/followers/142178KZ?style=social)](https://github.com/142178KZ)
@@ -10,12 +11,22 @@
 
 ## 🙋🏻‍♀️ Sobre Mi:
 
-- ⭐ Github Star ⭐ 
-- 🔭 Apasionada de la tecnología y disfrutando de una transición laboral a la Ciencia de Datos 📉
-- 🌱 💻 Actualmente estoy trabajando en gestión de Contenidos: (CMS) como WordPress o Shopify para manejar productos, descripciones y actualizaciones.
-- 📚 Estoy en un curso con énfasis en el análisis exploratorio de datos, modelos predictivos. Abarca Python, SQL, métodos y aplicaciones estándar de inteligencia artificial y aprendizaje automático.
+- ⭐ Github Star ⭐
+- 💻 Metas y Objetivos:
+- Soy un apasionado Data Scientist con el objetivo de aplicar técnicas avanzadas de análisis de datos y machine learning para resolver problemas complejos y generar valor en proyectos innovadores.
+- 🌱 Mi meta es seguir aprendiendo y creciendo en el campo de la ciencia de datos, contribuyendo a proyectos que impacten positivamente en la sociedad.
+- 👩🏻‍🏫 Carrera y Logros:
+- Disfrutando de una transición laboral a la Ciencia de Datos 📉
+  
+- 🥸 Experiencia:
+- 🔭 Cuento con 1 años de experiencia en el análisis de datos y desarrollo de modelos predictivos.
+- 📚 He trabajado en diversos sectores, incluyendo finanzas, salud y tecnología, donde he liderado proyectos que han optimizado procesos y mejorado la toma de decisiones.
+  
+- 🌱 Proyectos:
+- Entre mis logros destacan la implementación de un sistema de recomendación y la creación de un modelo de predicción de riesgos que redujo pérdidas para la compañia.
+- 📚 Actualmente estoy trabajando en gestión de Contenidos: (CMS) como WordPress o Shopify para manejar productos, descripciones y actualizaciones.
 - ❤ Me encanta asumir nuevos desafios 💪🏻
-- ❓ ¿Quieres contactar conmigo?
+- ❓ ¿Quieres contactar conmigo? [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/katherine-zuñiga-aviles) 
 <br>
 
 ### 💻 Tech Stack:
